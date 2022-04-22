@@ -18,3 +18,7 @@ p {
 .img-fluid {
     margin-bottom: 3em;
 }
+
+a {
+    color: black;
+}
